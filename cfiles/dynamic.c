@@ -13,7 +13,7 @@ int main()
     printf("\nThe address held in pointer variable 'np' is: %p\n", np);
     //printf("The value held in pointer variable 'np' is: %d\n", *np);
     printf("The address held in pointer variable 'q' is: %p\n", q);
-    //q++;
+    q++;
     printf("The address held in pointer variable 'q' after increment is: %p\n", q);
     printf("The value of the integer pointed by '*p' is: %d\n", *p);
     printf("The value of the integer pointed by '*q' is: %d\n", *q);
