@@ -56,7 +56,7 @@ int main(int argc, char *argv[])
 			printf("\nKey found in %d position\n",ans+1);
 		}
 
-		printf("\nElapsed time: %lf sec\n",(end-start)*1000000.0);
+		printf("\nElapsed time: %lf usec\n",(end-start)*1000000.0);
 
 		printf("\n\nPress 1. to retray or press any key to exit: ");
 		scanf("%d",&j);
